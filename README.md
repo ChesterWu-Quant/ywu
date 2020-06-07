@@ -1,1 +1,1 @@
-# ywu
+# CNN Fear and Greedy Indexes
